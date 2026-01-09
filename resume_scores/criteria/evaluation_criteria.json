@@ -1,0 +1,185 @@
+{
+  "job_title": "Senior Software Engineer - Full Stack",
+  "categories": [
+    {
+      "name": "Required Technical Skills",
+      "criteria": [
+        {
+          "criterion": "JavaScript proficiency",
+          "weight": "Critical",
+          "evaluation_guide": "Look for JavaScript explicitly mentioned in skills section, project descriptions showing JavaScript implementation, or work experience with JavaScript-based applications. Check for depth of experience through complexity of projects described."
+        },
+        {
+          "criterion": "TypeScript proficiency",
+          "weight": "Critical",
+          "evaluation_guide": "Check for TypeScript in skills list, projects built with TypeScript, or work experience mentioning TypeScript. Look for understanding of type systems and modern TypeScript features in project descriptions."
+        },
+        {
+          "criterion": "Modern web frameworks (React, Vue, or Angular)",
+          "weight": "Critical",
+          "evaluation_guide": "Identify specific framework experience (React, Vue, or Angular) in skills section or project work. Assess depth through descriptions of components built, state management, or framework-specific patterns used."
+        },
+        {
+          "criterion": "Backend development (Node.js, Python, or Java)",
+          "weight": "Critical",
+          "evaluation_guide": "Look for at least one of these backend technologies mentioned with practical application. Verify through API development, server-side logic implementation, or backend service creation in work history."
+        },
+        {
+          "criterion": "RESTful APIs understanding",
+          "weight": "High",
+          "evaluation_guide": "Check for explicit mention of REST API design/development, API integration work, or descriptions of building/consuming RESTful services. Look for understanding of HTTP methods, status codes, and REST principles."
+        },
+        {
+          "criterion": "Microservices architecture experience",
+          "weight": "High",
+          "evaluation_guide": "Look for projects involving microservices design, distributed systems work, or mentions of service-oriented architecture. Assess understanding through descriptions of service decomposition or inter-service communication."
+        },
+        {
+          "criterion": "SQL databases (PostgreSQL or similar)",
+          "weight": "High",
+          "evaluation_guide": "Check for PostgreSQL, MySQL, SQL Server, or other SQL database experience. Look for database design, query optimization, or complex SQL operations in project descriptions."
+        },
+        {
+          "criterion": "NoSQL databases (MongoDB or similar)",
+          "weight": "High",
+          "evaluation_guide": "Identify MongoDB, Cassandra, DynamoDB, or other NoSQL database experience. Look for schema design, document modeling, or NoSQL-specific operations mentioned in work history."
+        },
+        {
+          "criterion": "Git version control",
+          "weight": "High",
+          "evaluation_guide": "Check for Git mentioned in skills or experience with Git workflows (branching, merging, pull requests). Look for GitHub/GitLab profiles or collaborative development experience."
+        },
+        {
+          "criterion": "CI/CD pipelines experience",
+          "weight": "High",
+          "evaluation_guide": "Look for mentions of Jenkins, GitLab CI, GitHub Actions, CircleCI, or similar tools. Verify through descriptions of automated testing, deployment pipelines, or release processes."
+        },
+        {
+          "criterion": "Cloud platforms (AWS, Azure, or GCP)",
+          "weight": "High",
+          "evaluation_guide": "Identify specific cloud platform experience. Look for cloud service usage (EC2, S3, Lambda, Azure Functions, etc.), cloud architecture design, or cloud deployments in work experience."
+        },
+        {
+          "criterion": "Containerization (Docker, Kubernetes)",
+          "weight": "High",
+          "evaluation_guide": "Check for Docker and/or Kubernetes experience. Look for container creation, orchestration, or containerized application deployment in project descriptions."
+        }
+      ]
+    },
+    {
+      "name": "Preferred Technical Skills",
+      "criteria": [
+        {
+          "criterion": "Agile/Scrum methodologies",
+          "weight": "Medium",
+          "evaluation_guide": "Look for mentions of Agile, Scrum, Kanban, or sprint-based development in work experience. Check for roles like Scrum team member, sprint planning participation, or Agile ceremonies."
+        },
+        {
+          "criterion": "DevOps practices",
+          "weight": "Medium",
+          "evaluation_guide": "Check for DevOps tools and practices such as infrastructure as code, monitoring, logging, automation scripts, or DevOps culture participation. Look for tools like Terraform, Ansible, or monitoring solutions."
+        },
+        {
+          "criterion": "Open-source contributions",
+          "weight": "Low",
+          "evaluation_guide": "Look for GitHub profile links, mentions of open-source projects contributed to, or maintained open-source libraries. Check for pull requests, issues filed, or project maintainer roles."
+        }
+      ]
+    },
+    {
+      "name": "Experience Requirements",
+      "criteria": [
+        {
+          "criterion": "5+ years of professional software development experience",
+          "weight": "Critical",
+          "evaluation_guide": "Calculate total years of relevant professional experience from work history dates. Count only professional roles involving software development, excluding internships unless explicitly relevant. Must meet or exceed 5 years."
+        },
+        {
+          "criterion": "Experience mentoring junior developers",
+          "weight": "Medium",
+          "evaluation_guide": "Look for explicit mentions of mentoring, coaching, or training junior developers. Check for responsibilities including code review, onboarding, or technical guidance in previous roles."
+        },
+        {
+          "criterion": "Proven track record of delivering high-quality software solutions",
+          "weight": "High",
+          "evaluation_guide": "Assess through descriptions of completed projects, successful product launches, performance improvements, or measurable outcomes. Look for indicators of quality such as testing practices, code standards, or production stability."
+        }
+      ]
+    },
+    {
+      "name": "Education Requirements",
+      "criteria": [
+        {
+          "criterion": "Bachelor's degree in Computer Science or related field",
+          "weight": "Medium",
+          "evaluation_guide": "Check education section for Bachelor's degree in Computer Science, Software Engineering, Information Technology, or closely related technical fields. Note: Listed as 'preferred' so equivalent experience may substitute."
+        }
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "criteria": [
+        {
+          "criterion": "Strong problem-solving skills",
+          "weight": "High",
+          "evaluation_guide": "Look for descriptions of complex technical challenges solved, troubleshooting experience, or innovative solutions implemented. Assess through examples of debugging, optimization, or architectural problem-solving."
+        },
+        {
+          "criterion": "Attention to detail",
+          "weight": "High",
+          "evaluation_guide": "Evaluate through mentions of testing practices, code quality focus, bug-free deliveries, or meticulous documentation. Look for quality assurance involvement or precision in technical descriptions."
+        },
+        {
+          "criterion": "Strong communication skills",
+          "weight": "High",
+          "evaluation_guide": "Look for evidence of cross-functional collaboration, technical documentation, presentations, or stakeholder communication. Check for clear, well-written resume as initial indicator."
+        },
+        {
+          "criterion": "Teamwork skills",
+          "weight": "High",
+          "evaluation_guide": "Assess through descriptions of collaborative projects, cross-functional team participation, pair programming, or team-based achievements. Look for 'we' vs 'I' language in accomplishments."
+        },
+        {
+          "criterion": "Code review capabilities",
+          "weight": "Medium",
+          "evaluation_guide": "Look for explicit mentions of conducting code reviews, peer reviews, or ensuring code quality standards. May be implied through senior-level positions or mentoring experience."
+        }
+      ]
+    },
+    {
+      "name": "Domain Knowledge",
+      "criteria": [
+        {
+          "criterion": "Understanding of scalable web application architecture",
+          "weight": "High",
+          "evaluation_guide": "Look for experience with high-traffic applications, scaling challenges addressed, performance optimization, or distributed systems. Check for mentions of load balancing, caching, or horizontal scaling."
+        },
+        {
+          "criterion": "Production troubleshooting and issue resolution",
+          "weight": "High",
+          "evaluation_guide": "Check for on-call experience, incident response, debugging production issues, or post-mortem analysis. Look for monitoring, logging, or observability tools mentioned."
+        },
+        {
+          "criterion": "Technical architecture decision-making",
+          "weight": "High",
+          "evaluation_guide": "Look for senior or lead roles involving architecture design, technology selection, or system design decisions. Check for mentions of technical proposals, design documents, or architecture reviews."
+        }
+      ]
+    },
+    {
+      "name": "Other Requirements",
+      "criteria": [
+        {
+          "criterion": "Ability to write clean, maintainable, well-tested code",
+          "weight": "Critical",
+          "evaluation_guide": "Assess through mentions of unit testing, integration testing, test-driven development (TDD), code quality practices, or testing frameworks. Look for emphasis on maintainability, documentation, or clean code principles."
+        },
+        {
+          "criterion": "Collaboration with cross-functional teams",
+          "weight": "High",
+          "evaluation_guide": "Look for experience working with product managers, designers, QA, or other non-engineering stakeholders. Check for descriptions of feature delivery requiring coordination across teams."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2333 @@
+[
+  {
+    "candidate_name": "Julie Monroe",
+    "evaluations": [
+      {
+        "category": "Required Technical Skills",
+        "criterion": "JavaScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No mention of JavaScript in skills section, employment history, or projects. The candidate's experience is entirely in nutrition consulting and dietary services."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "TypeScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "TypeScript is not mentioned anywhere in the resume. The candidate's background is in nutrition and food sciences, not software development."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Modern web frameworks (React, Vue, or Angular)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No web frameworks mentioned. The skills section lists food preparation, kitchen maintenance, and nutrition-related competencies only."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Backend development (Node.js, Python, or Java)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No backend programming languages or development experience evident. All work experience relates to nutritional consulting and patient education."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "RESTful APIs understanding",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of APIs, web services, or any software development concepts in the resume."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Microservices architecture experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No experience with microservices or software architecture. The candidate's experience is in healthcare nutrition services."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "SQL databases (PostgreSQL or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No database technologies mentioned. The candidate's work involves patient counseling and nutrition assessments, not database management."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "NoSQL databases (MongoDB or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No NoSQL or any database experience mentioned in the resume."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Git version control",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of Git, version control, or any software development tools."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "CI/CD pipelines experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No CI/CD tools or deployment pipeline experience mentioned. The candidate's background is in nutrition consulting."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Cloud platforms (AWS, Azure, or GCP)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No cloud platform experience evident in the resume. All experience is in healthcare and nutrition services."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Containerization (Docker, Kubernetes)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No containerization technologies or DevOps tools mentioned anywhere in the resume."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Agile/Scrum methodologies",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No mention of Agile, Scrum, or any software development methodologies in work experience."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "DevOps practices",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No DevOps tools, practices, or related experience mentioned. The candidate's work is in nutrition and healthcare."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Open-source contributions",
+        "weight": "Low",
+        "score": 0,
+        "reasoning": "No GitHub profile or open-source contributions mentioned. The LinkedIn and Pinterest links provided do not indicate software development activity."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "5+ years of professional software development experience",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "The candidate has zero years of software development experience. All professional experience (2016-present) is in nutritional consulting roles at WIC and DaVita."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Experience mentoring junior developers",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "While the candidate supervised 27 food production employees and three dietary managers, there is no evidence of mentoring developers or any software engineering personnel."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Proven track record of delivering high-quality software solutions",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No software solutions or projects mentioned. Accomplishments relate to nutrition programs, TPN usage reduction, and patient care, not software delivery."
+      },
+      {
+        "category": "Education Requirements",
+        "criterion": "Bachelor's degree in Computer Science or related field",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "The candidate has a Bachelor of Science in Food Sciences and Master of Science in Dietary Education, neither of which are related to Computer Science or software engineering."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong problem-solving skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate demonstrates problem-solving through accomplishments like decreasing TPN usage by 72% for $42,000 cost savings and founding educational programs reaching 32,000 school children, showing analytical and innovative thinking."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Attention to detail",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate shows attention to detail through work requiring precise nutrition assessments, WIC certifications per USDA policy, monitoring laboratory indicators, and managing CQI programs including osteodystrophy and anemia management."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong communication skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate demonstrates strong communication through providing nutrition education counseling to patients, founding educational programs via mass media, and working with neurologists. The resume itself is well-written and clearly structured."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Teamwork skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate shows teamwork through working with neurologists on drug management, participating in clinical CQI monitoring programs, and supervising staff teams. The profile mentions 'interpersonal skills' as a key strength."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Code review capabilities",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No evidence of code review or software quality assurance activities. The candidate's review experience would be in nutrition program compliance, not code."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Understanding of scalable web application architecture",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No experience with web applications, software architecture, or scalability challenges. All experience is in healthcare nutrition services."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Production troubleshooting and issue resolution",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No production system troubleshooting experience mentioned. The candidate's troubleshooting would relate to patient nutrition issues, not software systems."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Technical architecture decision-making",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No software architecture or technical design decisions evident. The candidate has made decisions in nutrition program design but not technical system architecture."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Ability to write clean, maintainable, well-tested code",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No evidence of any coding experience, testing practices, or software development. All work relates to nutrition consulting and patient care."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Collaboration with cross-functional teams",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate demonstrates cross-functional collaboration by working with neurologists on drug management, participating in nutrition support teams, and coordinating educational programs across multiple stakeholders."
+      }
+    ],
+    "overall_summary": "Julie Monroe is an experienced nutrition consultant with strong soft skills including communication, teamwork, problem-solving, and attention to detail. However, she has zero software development experience and does not meet any of the technical requirements for a Senior Software Engineer - Full Stack position. Her educational background and professional experience are entirely in nutrition and food sciences, making her completely unqualified for this role.",
+    "scores": {
+      "overall_score": 17.44,
+      "category_scores": {
+        "Required Technical Skills": {
+          "score": 0.0,
+          "weight": 40.0,
+          "count": 12,
+          "normalized_score": 0.0
+        },
+        "Preferred Technical Skills": {
+          "score": 0.0,
+          "weight": 5.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Experience Requirements": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Education Requirements": {
+          "score": 0.0,
+          "weight": 2.0,
+          "count": 1,
+          "normalized_score": 0.0
+        },
+        "Soft Skills": {
+          "score": 12.0,
+          "weight": 14.0,
+          "count": 5,
+          "normalized_score": 85.71428571428571
+        },
+        "Domain Knowledge": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Other Requirements": {
+          "score": 3.0,
+          "weight": 7.0,
+          "count": 2,
+          "normalized_score": 42.857142857142854
+        }
+      },
+      "total_criteria": 29,
+      "criteria_met": 5
+    },
+    "file_path": "parsed_resumes\\Amsterdam-Modern-Resume-Template.md"
+  },
+  {
+    "candidate_name": "Not explicitly provided",
+    "evaluations": [
+      {
+        "category": "Required Technical Skills",
+        "criterion": "JavaScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "JavaScript is not mentioned anywhere in the resume. The candidate's technical skills focus on travel industry expertise (reservations, itineraries, travel consulting) with no programming or software development experience evident."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "TypeScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "TypeScript is not mentioned in the resume. The candidate's background is entirely in travel agency work with no software development skills listed."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Modern web frameworks (React, Vue, or Angular)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No web frameworks are mentioned. The skills section lists travel-related competencies (budgeting, logistical planning, travel consulting) but no programming frameworks or technologies."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Backend development (Node.js, Python, or Java)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No backend programming languages or technologies are mentioned. The resume shows exclusively travel agent experience with no software development background."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "RESTful APIs understanding",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "There is no mention of APIs, REST, or any web service development. The candidate's experience is limited to travel booking and customer service activities."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Microservices architecture experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No microservices or distributed systems experience is evident. The resume contains no software architecture or technical systems design experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "SQL databases (PostgreSQL or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No database technologies are mentioned. While the candidate handled bookings and invoices, there's no indication of database design, SQL queries, or database management experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "NoSQL databases (MongoDB or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No NoSQL databases are mentioned. The resume shows no experience with MongoDB, document stores, or any database technologies."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Git version control",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "Git and version control are not mentioned anywhere in the resume. The candidate's skills and experience are entirely non-technical."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "CI/CD pipelines experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No CI/CD tools or DevOps pipeline experience is mentioned. The candidate has no software development or deployment experience evident in the resume."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Cloud platforms (AWS, Azure, or GCP)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No cloud platforms are mentioned. The resume shows no experience with AWS, Azure, GCP, or any cloud infrastructure."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Containerization (Docker, Kubernetes)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "Docker and Kubernetes are not mentioned. The candidate has no containerization or infrastructure experience listed."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Agile/Scrum methodologies",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No Agile, Scrum, or software development methodologies are mentioned. The work experience describes travel coordination but no software project management approaches."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "DevOps practices",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No DevOps tools, practices, or automation experience is mentioned. The candidate's background is entirely in travel services."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Open-source contributions",
+        "weight": "Low",
+        "score": 0,
+        "reasoning": "While there are links to Resume.io in the resume, there's no evidence of open-source software contributions, GitHub profile with code repositories, or programming project involvement."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "5+ years of professional software development experience",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "The candidate has approximately 4 years of professional experience (Jan 2018 - Feb 2022), but all in travel agent roles with zero software development experience. No programming or engineering work is evident."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Experience mentoring junior developers",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "There is no mention of mentoring, coaching, or training others in any technical capacity. The resume shows no leadership or mentorship experience."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Proven track record of delivering high-quality software solutions",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "The accomplishments section shows travel industry achievements (340 guests organized, 12,500 guests monthly processed, $270,000 revenue) but no software projects, product launches, or technical deliverables."
+      },
+      {
+        "category": "Education Requirements",
+        "criterion": "Bachelor's degree in Computer Science or related field",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "The candidate has an Associate of Arts degree in Hospitality from Columbia University and a Certificate in Travel and Tourism Management, but no Computer Science, Software Engineering, or related technical degree."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong problem-solving skills",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "While the candidate likely solved problems in travel coordination (weather conditions, emergencies), there's no evidence of technical problem-solving, debugging, or engineering challenges addressed."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Attention to detail",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate demonstrated attention to detail by visiting hotels to verify accuracy of information regarding cleanliness and facilities, handling booking confirmations with airlines/hotels, and achieving 98% client satisfaction rating."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong communication skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The resume explicitly lists 'written and verbal communication' as key skills. The candidate attended client queries via phone, internet, and in person, and provided advice and recommendations to tourists, demonstrating communication abilities."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Teamwork skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate coordinated with local tourist guides, local government bodies, and worked within travel agencies, showing collaborative work. The role required working with various stakeholders including airlines and hotels."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Code review capabilities",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "There is no mention of code reviews, technical reviews, or any software quality assurance activities. The candidate has no software development experience."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Understanding of scalable web application architecture",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No experience with web applications, scalability, or software architecture is mentioned. The candidate's domain knowledge is entirely in travel and tourism."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Production troubleshooting and issue resolution",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "While the candidate handled emergencies in travel scenarios, there's no evidence of production system troubleshooting, incident response, or technical issue resolution in software environments."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Technical architecture decision-making",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "The resume shows no technical architecture experience. The candidate provided suggestions for website improvements but did not demonstrate architecture design or technology selection responsibilities."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Ability to write clean, maintainable, well-tested code",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "There is no evidence of any coding ability, testing practices, or software development skills. The candidate has no programming experience mentioned in the resume."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Collaboration with cross-functional teams",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate coordinated with diverse stakeholders including tourist guides, local government bodies, airlines, hotels, and restaurant staff. This demonstrates cross-functional collaboration, though not in a software development context."
+      }
+    ],
+    "overall_summary": "This candidate is not qualified for a Senior Software Engineer - Full Stack position. The resume shows 4 years of experience exclusively as a Travel Agent with expertise in hospitality and tourism, but completely lacks any software development experience, programming skills, or technical competencies required for the role. The candidate scores 0 on all critical technical requirements including JavaScript, TypeScript, frameworks, and backend development. Only transferable soft skills like communication, teamwork, and cross-functional collaboration are evident.",
+    "scores": {
+      "overall_score": 13.95,
+      "category_scores": {
+        "Required Technical Skills": {
+          "score": 0.0,
+          "weight": 40.0,
+          "count": 12,
+          "normalized_score": 0.0
+        },
+        "Preferred Technical Skills": {
+          "score": 0.0,
+          "weight": 5.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Experience Requirements": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Education Requirements": {
+          "score": 0.0,
+          "weight": 2.0,
+          "count": 1,
+          "normalized_score": 0.0
+        },
+        "Soft Skills": {
+          "score": 9.0,
+          "weight": 14.0,
+          "count": 5,
+          "normalized_score": 64.28571428571429
+        },
+        "Domain Knowledge": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Other Requirements": {
+          "score": 3.0,
+          "weight": 7.0,
+          "count": 2,
+          "normalized_score": 42.857142857142854
+        }
+      },
+      "total_criteria": 29,
+      "criteria_met": 4
+    },
+    "file_path": "parsed_resumes\\Dublin-Resume-Template-Modern.md"
+  },
+  {
+    "candidate_name": "Robert Cooper",
+    "evaluations": [
+      {
+        "category": "Required Technical Skills",
+        "criterion": "JavaScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No mention of JavaScript in the skills section, education, or work experience. The candidate's background is entirely in security guard positions with no software development work."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "TypeScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "TypeScript is not mentioned anywhere in the resume. No evidence of any programming or software development experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Modern web frameworks (React, Vue, or Angular)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No web frameworks mentioned. The candidate's experience is exclusively in physical security roles with no software development background."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Backend development (Node.js, Python, or Java)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No backend development technologies are mentioned. The resume shows no programming or software engineering experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "RESTful APIs understanding",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of APIs, REST, or any web service development. The candidate's work involves physical security monitoring, not software development."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Microservices architecture experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No evidence of microservices, distributed systems, or software architecture experience. All experience is in security guard roles."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "SQL databases (PostgreSQL or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No database experience mentioned. While the candidate completes reports, there is no indication of SQL or database development work."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "NoSQL databases (MongoDB or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No NoSQL database experience mentioned. No evidence of any database-related technical work."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Git version control",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "Git or any version control systems are not mentioned. No software development collaboration tools are referenced."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "CI/CD pipelines experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No CI/CD tools or automated deployment pipelines mentioned. The candidate's background does not include DevOps or software deployment."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Cloud platforms (AWS, Azure, or GCP)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No cloud platform experience mentioned. While the candidate uses a 'CCTV app on smart devices,' this does not constitute cloud platform development experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Containerization (Docker, Kubernetes)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No containerization technologies mentioned. No evidence of Docker, Kubernetes, or related technologies in the resume."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Agile/Scrum methodologies",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No mention of Agile, Scrum, or any software development methodologies. The work described does not involve software development projects."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "DevOps practices",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No DevOps tools or practices mentioned. While preventive maintenance is described for security equipment, this is not software DevOps work."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Open-source contributions",
+        "weight": "Low",
+        "score": 0,
+        "reasoning": "No open-source contributions or GitHub profile mentioned. The LinkedIn link does not indicate software development activity."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "5+ years of professional software development experience",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "The candidate has 8 years of experience as a security guard (2014-2022 based on education and employment dates), but zero years of professional software development experience."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Experience mentoring junior developers",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No mentoring experience mentioned, and no developers or technical staff to mentor in security guard roles."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Proven track record of delivering high-quality software solutions",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "The achievements section shows security-related accomplishments (theft reduction, CCTV installation), but no software solutions or technical projects delivered."
+      },
+      {
+        "category": "Education Requirements",
+        "criterion": "Bachelor's degree in Computer Science or related field",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "The candidate is 'presently finishing a bachelor's in criminal justice' (not Computer Science), and has security-related certifications (CPO, SOCP), not technical degrees."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong problem-solving skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The achievements demonstrate problem-solving through innovative security solutions: implementing X-ray scanning systems, installing CCTV cameras strategically, and developing access control improvements that yielded measurable results (26-93% improvements)."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Attention to detail",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The profile emphasizes being 'safely conscious, attentive' and 'proficient at observing surroundings.' Job duties include detailed reporting, regular logging procedures, and scanning for items out of place, demonstrating strong attention to detail."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong communication skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Work experience includes 'interviewing of witnesses,' 'acquiring signatures,' 'notifying Center management,' and coordinating with police. The resume itself is clearly written and well-organized, demonstrating communication abilities."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Teamwork skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Work involves coordinating with security headquarters, notifying management, working with police during incidents, and protecting multiple stakeholders (visitors, employees, clients), indicating collaborative work environment."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Code review capabilities",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No code review experience possible given the candidate has no software development background. No technical review or quality assurance work in a software context."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Understanding of scalable web application architecture",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No web application or software architecture experience. The candidate's technical work involves physical security systems, not software systems."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Production troubleshooting and issue resolution",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "While the candidate troubleshoots security equipment malfunctions, this is not software production troubleshooting. No experience with software systems, logging, or monitoring tools in a development context."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Technical architecture decision-making",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No software architecture decisions evident. While the candidate made security system implementation decisions (CCTV placement, X-ray systems), these are not software architecture decisions."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Ability to write clean, maintainable, well-tested code",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No coding experience demonstrated. While the candidate writes reports, there is no evidence of writing software code or implementing testing practices."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Collaboration with cross-functional teams",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Experience collaborating with multiple stakeholders including management, police, maintenance teams, and monitoring equipment suppliers. Work requires coordination across different functions to maintain security operations."
+      }
+    ],
+    "overall_summary": "Robert Cooper is an experienced security professional with 8 years in physical security roles, but has no software development experience whatsoever. While he demonstrates strong soft skills including problem-solving, attention to detail, communication, and cross-functional collaboration, he lacks all critical technical requirements for a Senior Software Engineer position including programming languages, frameworks, databases, and cloud technologies. This candidate is not qualified for this software engineering role.",
+    "scores": {
+      "overall_score": 17.44,
+      "category_scores": {
+        "Required Technical Skills": {
+          "score": 0.0,
+          "weight": 40.0,
+          "count": 12,
+          "normalized_score": 0.0
+        },
+        "Preferred Technical Skills": {
+          "score": 0.0,
+          "weight": 5.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Experience Requirements": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Education Requirements": {
+          "score": 0.0,
+          "weight": 2.0,
+          "count": 1,
+          "normalized_score": 0.0
+        },
+        "Soft Skills": {
+          "score": 12.0,
+          "weight": 14.0,
+          "count": 5,
+          "normalized_score": 85.71428571428571
+        },
+        "Domain Knowledge": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Other Requirements": {
+          "score": 3.0,
+          "weight": 7.0,
+          "count": 2,
+          "normalized_score": 42.857142857142854
+        }
+      },
+      "total_criteria": 29,
+      "criteria_met": 5
+    },
+    "file_path": "parsed_resumes\\New-York-Resume-Template-Creative.md"
+  },
+  {
+    "candidate_name": "Oli Treadwell",
+    "evaluations": [
+      {
+        "category": "Required Technical Skills",
+        "criterion": "JavaScript proficiency",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "JavaScript is extensively mentioned throughout the resume. Used across multiple roles including Condé Nast (ReactJS components), WorkTango (ReactJS platform re-architecture), Hack Reactor (instructor), and Habitual Genesis. Listed in multiple technology stacks."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "TypeScript proficiency",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "TypeScript explicitly mentioned in two roles: WorkTango (June 2019 - May 2020) and Condé Nast (Sept. 2017 - June 2019), demonstrating nearly 3 years of professional TypeScript experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Modern web frameworks (React, Vue, or Angular)",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "Extensive ReactJS experience across multiple roles: re-architected Rewards platform at WorkTango, delivered ReactJS components for 26+ brands at Condé Nast, taught ReactJS at Flatiron School, and used it at Hack Reactor. React Router also mentioned."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Backend development (Node.js, Python, or Java)",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "Multiple backend technologies demonstrated: NodeJS (WorkTango, Condé Nast, Hack Reactor), Python/Flask (Flatiron School curriculum), and extensive Ruby on Rails experience (WorkTango, Union Metrics, Bypass Mobile). Clear backend service development experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "RESTful APIs understanding",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Explicit mention of APIs in Flatiron School curriculum and technology list. Also designed JSON-API spec product licensing platform at Bypass Mobile. API integration work mentioned across multiple roles."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Microservices architecture experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No explicit mention of microservices architecture, distributed systems design, or service-oriented architecture in the resume. While the candidate has worked on complex systems, microservices are not specifically referenced."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "SQL databases (PostgreSQL or similar)",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Multiple SQL database experiences: PostgreSQL (Flatiron School, Hack Reactor, WorkTango), MySQL (Union Metrics, Hack Reactor, Bypass Mobile). ActiveRecord ORM experience demonstrates database design and querying skills."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "NoSQL databases (MongoDB or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of MongoDB, Cassandra, DynamoDB, or any other NoSQL databases in the resume. Experience is exclusively with SQL databases (PostgreSQL, MySQL)."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Git version control",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Git and GitHub mentioned extensively across all roles. Specific mention of code reviews using GitHub at Bypass Mobile, and GitHub listed in technology stacks for multiple positions. GitHub profile link provided."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "CI/CD pipelines experience",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "CI/CD explicitly mentioned at Flatiron School and Condé Nast. Specific tools include Circle CI (WorkTango) and Jenkins (Condé Nast, Union Metrics). Curriculum included CI/CD teaching at Flatiron School."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Cloud platforms (AWS, Azure, or GCP)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No explicit mention of AWS, Azure, or GCP in the resume. While Render.com (deployment platform) and Heroku are mentioned, these are PaaS rather than full cloud platforms. No cloud architecture or cloud-specific services mentioned."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Containerization (Docker, Kubernetes)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of Docker or Kubernetes in the resume. Vagrant is mentioned at Bypass Mobile and Union Metrics, but this is for VM-based development environments rather than containerization."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Agile/Scrum methodologies",
+        "weight": "Medium",
+        "score": 1,
+        "reasoning": "Agile methodologies explicitly mentioned in summary and multiple roles. Flatiron School curriculum included Agile training, Hack Reactor facilitated workshops in Agile environment, and JIRA (Agile tool) mentioned at WorkTango and Condé Nast."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "DevOps practices",
+        "weight": "Medium",
+        "score": 1,
+        "reasoning": "DevOps practices evident through CI/CD implementation (Jenkins, Circle CI), deployment automation, and integration of development and deployment pipelines across multiple roles. While not explicitly called 'DevOps,' practices align with DevOps culture."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Open-source contributions",
+        "weight": "Low",
+        "score": 1,
+        "reasoning": "Summary explicitly states 'open-source contributor' and GitHub profile link is provided (github.com/olitreadwell). Active community organizer also suggests engagement with open-source community."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "5+ years of professional software development experience",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "Clear professional software development experience from Oct. 2014 to present (2024) = ~10 years. Roles include Union Metrics (Oct. 2014 - Jan. 2016), Bypass Mobile (Apr. 2016 - Aug. 2016), Hack Reactor (Aug. 2016 - Sep. 2017), Condé Nast (Sept. 2017 - June 2019), WorkTango (June 2019 - May 2020), Flatiron School (Nov. 2022 - Nov. 2023), plus ongoing Habitual Genesis work since Jan. 2016."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Experience mentoring junior developers",
+        "weight": "Medium",
+        "score": 1,
+        "reasoning": "Explicit mentoring experience mentioned at multiple roles: 'Mentored junior engineers' at WorkTango, 'Mentored and coached junior engineers' at Flatiron School, and formalized technology decision-making process. Also instructor/teaching roles at Flatiron School and Hack Reactor."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Proven track record of delivering high-quality software solutions",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Multiple measurable outcomes: 15% increase in customer engagement at WorkTango, 100% YoY subscription growth at Condé Nast, 90% graduation rate at Hack Reactor, 20% performance improvement at Union Metrics. Testing frameworks (Jest, Chai, RSpec, Mocha, Puppeteer) mentioned across roles."
+      },
+      {
+        "category": "Education Requirements",
+        "criterion": "Bachelor's degree in Computer Science or related field",
+        "weight": "Medium",
+        "score": 1,
+        "reasoning": "Postgraduate Diploma in Information Technology from Whitireia and WelTec, plus Full-Stack Web Development certification from Dev Bootcamp. While BS is in Business Administration, the postgraduate IT diploma and bootcamp certification demonstrate equivalent technical education."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong problem-solving skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Multiple examples of complex problem-solving: re-architected entire platform at WorkTango, built brand-agnostic paywall architecture at Condé Nast, migrated legacy codebases at Union Metrics, resolved development environment issues. Summary highlights 'innovation' and problem-solving capabilities."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Attention to detail",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Extensive testing framework experience (Jest, Chai, RSpec, Mocha, Puppeteer) demonstrates quality focus. Authored blog post on End-to-End Testing. Implemented design systems for UI consistency. Resume itself is well-structured and detailed, indicating attention to detail."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong communication skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Extensive speaking engagements and thought leadership: panel moderator, conference presenter, MC at multiple events. Technical training and curriculum writing at Flatiron School and Hack Reactor. Authored technology blog post. Resume is clear and well-written with strong communication of achievements."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Teamwork skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Multiple references to cross-functional collaboration: 'Lead cross-functional collaborations' in summary, integrated features across platforms at WorkTango, worked with diverse teams at Condé Nast (26 brands), liaised between customer and engineering teams at Union Metrics. Led working group at Flatiron School."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Code review capabilities",
+        "weight": "Medium",
+        "score": 1,
+        "reasoning": "Explicit mention of 'performed code reviews using Github.com' at Bypass Mobile. Senior-level positions at WorkTango and mentoring responsibilities strongly imply code review experience. Formalized technology decision-making at WorkTango suggests review authority."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Understanding of scalable web application architecture",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Re-architected entire Rewards platform from Rails to ReactJS at WorkTango. Built brand-agnostic paywall architecture serving 26+ media brands at Condé Nast with 100% YoY subscription growth. These high-traffic applications demonstrate scalability understanding. Implemented modular design systems for consistency."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Production troubleshooting and issue resolution",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Created knowledge base of 100 most common customer technical challenges at Union Metrics, reducing resolution time by 50%. Liaised between customer and engineering teams to diagnose and resolve issues. Resolved development environment issues at Bypass Mobile."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Technical architecture decision-making",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Re-architected Rewards platform from Rails to ReactJS at WorkTango (major architectural decision). Built brand-agnostic paywall architecture at Condé Nast. Formalized technology decision-making process for third-party libraries at WorkTango. Senior Software Engineer title indicates architectural responsibilities."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Ability to write clean, maintainable, well-tested code",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "Extensive testing framework experience across all roles: Jest, Chai, Mocha, RSpec, Puppeteer. Authored blog post specifically on End-to-End Testing. Implemented design systems for consistency. Migrated codebases 'improving maintainability' at Union Metrics. Multiple mentions of code quality focus."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Collaboration with cross-functional teams",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Summary explicitly mentions 'leading cross-functional collaborations.' Worked with volunteer teams at Mexic-Arte Museum. Liaised between customer and engineering teams at Union Metrics. Integrated features across platforms at WorkTango. Tools like JIRA, Zeplin, Figma indicate collaboration with product/design teams."
+      }
+    ],
+    "overall_summary": "Oli Treadwell is a strong candidate with 10+ years of professional software development experience, demonstrating excellent proficiency in critical requirements including JavaScript, TypeScript, React, and multiple backend technologies (Node.js, Python, Ruby on Rails). The candidate has proven leadership through mentoring, teaching roles, and architectural decision-making, with measurable impacts including 15% engagement increases and 100% YoY growth. Primary gaps are in microservices architecture, NoSQL databases, and cloud platforms (AWS/Azure/GCP), though the candidate shows strong fundamentals in CI/CD, testing practices, and scalable architecture design. Overall, this is a highly qualified senior engineer with exceptional communication skills and demonstrated ability to deliver high-quality, tested code.",
+    "scores": {
+      "overall_score": 86.05,
+      "category_scores": {
+        "Required Technical Skills": {
+          "score": 28.0,
+          "weight": 40.0,
+          "count": 12,
+          "normalized_score": 70.0
+        },
+        "Preferred Technical Skills": {
+          "score": 5.0,
+          "weight": 5.0,
+          "count": 3,
+          "normalized_score": 100.0
+        },
+        "Experience Requirements": {
+          "score": 9.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 100.0
+        },
+        "Education Requirements": {
+          "score": 2.0,
+          "weight": 2.0,
+          "count": 1,
+          "normalized_score": 100.0
+        },
+        "Soft Skills": {
+          "score": 14.0,
+          "weight": 14.0,
+          "count": 5,
+          "normalized_score": 100.0
+        },
+        "Domain Knowledge": {
+          "score": 9.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 100.0
+        },
+        "Other Requirements": {
+          "score": 7.0,
+          "weight": 7.0,
+          "count": 2,
+          "normalized_score": 100.0
+        }
+      },
+      "total_criteria": 29,
+      "criteria_met": 25
+    },
+    "file_path": "parsed_resumes\\Oli Treadwell Software Engineer Resume - 2024 06 22.md"
+  },
+  {
+    "candidate_name": "Charly Dolman",
+    "evaluations": [
+      {
+        "category": "Required Technical Skills",
+        "criterion": "JavaScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No mention of JavaScript anywhere in the resume. The candidate is a Personal Trainer with no software development experience or technical skills listed."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "TypeScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No mention of TypeScript in the resume. The candidate's background is entirely in fitness training with no programming experience evident."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Modern web frameworks (React, Vue, or Angular)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No web frameworks mentioned. The candidate's skills section lists fitness-related competencies (nutrition, sales, communication) with no technical skills."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Backend development (Node.js, Python, or Java)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No backend development technologies mentioned. The candidate's work history is exclusively in personal training roles at fitness centers."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "RESTful APIs understanding",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of APIs or any related technical concepts. The candidate's experience focuses on fitness program development and client training."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Microservices architecture experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of microservices or software architecture. The candidate's only architecture-related experience would be fitness program design."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "SQL databases (PostgreSQL or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No database experience mentioned. While the resume mentions 'tracking client progress using specialized software,' this refers to using software, not developing or managing databases."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "NoSQL databases (MongoDB or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No NoSQL database experience mentioned. The candidate has no software development background evident in the resume."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Git version control",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of Git or any version control systems. The candidate's technical exposure is limited to using fitness tracking software as an end user."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "CI/CD pipelines experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No CI/CD tools or practices mentioned. The candidate has no software engineering or DevOps experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Cloud platforms (AWS, Azure, or GCP)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No cloud platform experience mentioned. The candidate's professional background is entirely in the fitness industry."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Containerization (Docker, Kubernetes)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No containerization technologies mentioned. The candidate has no relevant technical infrastructure experience."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Agile/Scrum methodologies",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No mention of Agile, Scrum, or any software development methodologies. The candidate's work is in fitness training, not software development."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "DevOps practices",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No DevOps tools or practices mentioned. The candidate has no experience in software operations or infrastructure."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Open-source contributions",
+        "weight": "Low",
+        "score": 0,
+        "reasoning": "No open-source contributions or GitHub profile mentioned. The candidate's professional focus is personal training, not software development."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "5+ years of professional software development experience",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "The candidate has 8 years of experience as a Personal Trainer (as stated in the profile), but zero years of software development experience. All work history is in fitness training roles."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Experience mentoring junior developers",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No mentoring of developers mentioned. While the candidate leads fitness groups and trains clients, this is not relevant to software development mentoring."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Proven track record of delivering high-quality software solutions",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No software solutions or projects mentioned. The candidate's achievements relate to fitness programs, client outcomes, and membership increases, not software delivery."
+      },
+      {
+        "category": "Education Requirements",
+        "criterion": "Bachelor's degree in Computer Science or related field",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "The candidate has a Bachelor's Degree in Kinesiology from Syracuse University (2018-2021), which is not related to Computer Science or software engineering."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong problem-solving skills",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "While the candidate likely has problem-solving skills in fitness contexts, there is no evidence of technical problem-solving relevant to software engineering challenges."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Attention to detail",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate demonstrates attention to detail through 'preparing comprehensive diet plans,' 'tracking client progress using specialized software to generate accurate reports,' and ensuring '85% reached their fitness goals within six weeks' with precise metrics."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong communication skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate lists 'Effective communicator' as a skill and demonstrates communication through 'advising individual clients on health, nutrition, and lifestyle changes,' 'demonstrating exercises,' and 'assisting with marketing efforts.' The resume itself is clearly written."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Teamwork skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate demonstrates teamwork through 'leading fitness groups of 10-20 clients three times per week,' 'assisting with marketing efforts to retain existing clients,' and working within fitness organizations."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Code review capabilities",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No code review experience mentioned. The candidate has no software development background where code review would be applicable."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Understanding of scalable web application architecture",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No web application or software architecture experience mentioned. The candidate's architecture knowledge would be limited to fitness program structure."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Production troubleshooting and issue resolution",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No production software troubleshooting experience mentioned. The candidate has no software engineering or production system experience."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Technical architecture decision-making",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No technical architecture experience mentioned. While the candidate 'develops new fitness workshops,' this is not relevant to software architecture decisions."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Ability to write clean, maintainable, well-tested code",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No coding experience or software testing mentioned. The candidate has no software development background demonstrating code writing abilities."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Collaboration with cross-functional teams",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate demonstrates cross-functional collaboration through 'assisting with marketing efforts to retain existing clients,' working within large fitness organizations (Blink Fitness with 90+ locations), and coordinating with various stakeholders in fitness center operations."
+      }
+    ],
+    "overall_summary": "This candidate is entirely unqualified for the Senior Software Engineer - Full Stack position. Charly Dolman is an experienced Personal Trainer with 8 years in the fitness industry and zero software development experience, failing to meet all critical technical requirements including programming languages, frameworks, databases, and software development experience. While the candidate demonstrates some transferable soft skills like communication, attention to detail, and teamwork, the complete absence of any technical skills, software development experience, or relevant education makes this candidate unsuitable for this role.",
+    "scores": {
+      "overall_score": 13.95,
+      "category_scores": {
+        "Required Technical Skills": {
+          "score": 0.0,
+          "weight": 40.0,
+          "count": 12,
+          "normalized_score": 0.0
+        },
+        "Preferred Technical Skills": {
+          "score": 0.0,
+          "weight": 5.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Experience Requirements": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Education Requirements": {
+          "score": 0.0,
+          "weight": 2.0,
+          "count": 1,
+          "normalized_score": 0.0
+        },
+        "Soft Skills": {
+          "score": 9.0,
+          "weight": 14.0,
+          "count": 5,
+          "normalized_score": 64.28571428571429
+        },
+        "Domain Knowledge": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Other Requirements": {
+          "score": 3.0,
+          "weight": 7.0,
+          "count": 2,
+          "normalized_score": 42.857142857142854
+        }
+      },
+      "total_criteria": 29,
+      "criteria_met": 4
+    },
+    "file_path": "parsed_resumes\\Personal-trainer-resume-example-3.md"
+  },
+  {
+    "candidate_name": "Daniel Phang",
+    "evaluations": [
+      {
+        "category": "Required Technical Skills",
+        "criterion": "JavaScript proficiency",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "JavaScript is explicitly listed in the Skills section under Languages. Practical experience is implied through web development work at multiple companies."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "TypeScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "TypeScript is not mentioned anywhere in the resume, neither in the skills section nor in project descriptions."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Modern web frameworks (React, Vue, or Angular)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No mention of React, Vue, or Angular in the resume. While web development work is present, specific modern framework experience is not documented."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Backend development (Node.js, Python, or Java)",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "Python, Java, and C# are listed in skills. Extensive backend work is evident through SharePoint backend optimization at Microsoft, ordering/accounting workflows at Amazon, and Django website creation."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "RESTful APIs understanding",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "While backend development experience is extensive, there is no explicit mention of REST APIs, API design, or API integration in the resume."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Microservices architecture experience",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "At Amazon, the candidate 'Migrated Prime Wardrobe's accounting backend to a next-generation plugin-based service,' indicating service-oriented architecture experience. Work with distributed systems at scale is evident."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "SQL databases (PostgreSQL or similar)",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "SQL is listed in skills. Practical experience includes working with Redshift (SQL-based data warehouse) at Amazon, optimizing queries and managing clusters. RDS is also listed in AWS skills."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "NoSQL databases (MongoDB or similar)",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "DynamoDB is explicitly listed in the AWS skills section, demonstrating NoSQL database experience with a document/key-value store."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Git version control",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "GitHub profile link is provided in contact information, and Bitbucket is listed under Atlassian software skills, indicating Git experience. Collaborative development at Microsoft and Amazon implies Git workflow usage."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "CI/CD pipelines experience",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Azure DevOps is listed in skills, which includes CI/CD capabilities. Experience at Microsoft and Amazon with large-scale deployments implies CI/CD pipeline usage, though not explicitly described."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Cloud platforms (AWS, Azure, or GCP)",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Extensive AWS experience is documented with specific services: DynamoDB, EC2, Lambda, RDS, Redshift, S3, SQS. Microsoft Azure DevOps is also listed. Cloud architecture work is evident throughout Amazon tenure."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Containerization (Docker, Kubernetes)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of Docker or Kubernetes in skills or project descriptions. Containerization experience is not evident in the resume."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Agile/Scrum methodologies",
+        "weight": "Medium",
+        "score": 1,
+        "reasoning": "Jira and Confluence are listed under Atlassian tools, which are commonly used for Agile/Scrum workflows. Work at Microsoft and Amazon strongly suggests Agile practices, though not explicitly stated."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "DevOps practices",
+        "weight": "Medium",
+        "score": 1,
+        "reasoning": "Azure DevOps is listed in skills. Work includes 'performance frameworks to dynamically detect performance issues' and optimization work, indicating monitoring and operational practices aligned with DevOps."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Open-source contributions",
+        "weight": "Low",
+        "score": 0,
+        "reasoning": "GitHub profile is provided but there is no mention of open-source contributions, maintained projects, or community involvement in the resume."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "5+ years of professional software development experience",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "Professional experience spans from June 2014 to Present (April 2019-Present at Microsoft, October 2016-January 2019 at Amazon, June 2014-October 2016 at Amazon), totaling approximately 9+ years of professional software development experience."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Experience mentoring junior developers",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No explicit mention of mentoring, coaching, training junior developers, or conducting code reviews in any role descriptions."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Proven track record of delivering high-quality software solutions",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Multiple successful product launches documented: Prime Wardrobe US/UK/JP launch, Rest of World project for 200+ countries. Quantified improvements shown: reduced non-payment rates, CPU usage from 95% to 50%, and operational time from 20+ to 10 hours."
+      },
+      {
+        "category": "Education Requirements",
+        "criterion": "Bachelor's degree in Computer Science or related field",
+        "weight": "Medium",
+        "score": 1,
+        "reasoning": "B.S. Computer Engineering from Lehigh University (2009-2013) and M.S. Computer Science (2013-2014), exceeding the requirement with both undergraduate and graduate degrees in related fields."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong problem-solving skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Multiple examples of complex problem-solving: optimizing Redshift cluster performance, reducing non-payment rates through behavior pattern analysis, and resolving CPU-heavy operations in legacy code at Microsoft."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Attention to detail",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Work on quality-of-service dashboards, performance frameworks to detect issues, and implementing validations based on customer behavior patterns demonstrates attention to detail and quality focus."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong communication skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Resume is well-written and clearly structured. Experience working with designers at Crunchyroll and creating internal tools for vendor managers at Amazon suggests cross-functional communication. Achievements are clearly articulated with specific metrics."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Teamwork skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Experience at large organizations (Microsoft, Amazon) inherently requires teamwork. Specific mention of 'Worked with a designer' at Crunchyroll shows collaborative approach. Multiple projects launching across regions suggest team coordination."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Code review capabilities",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No explicit mention of conducting code reviews, peer reviews, or quality assurance activities. While senior-level position is held, code review capabilities are not documented."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Understanding of scalable web application architecture",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Extensive work on scalable systems: SharePoint performance optimization for 400+ companies, Prime Wardrobe serving multiple countries, Redshift cluster optimization reducing peak usage significantly. Query caching and workload distribution demonstrate scaling knowledge."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Production troubleshooting and issue resolution",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Designed performance frameworks to 'dynamically detect performance issues,' analyzed performance data for incidents, and improved engineering system health monitoring. Work suggests production monitoring and troubleshooting capabilities."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Technical architecture decision-making",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "'Designed and implemented' appears multiple times in the resume, including quality-of-service dashboards, ordering workflows, accounting solutions, and plugin-based service migration, indicating architectural decision-making responsibility."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Ability to write clean, maintainable, well-tested code",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "While code quality is implied through successful projects and production systems, there is no explicit mention of testing practices, unit tests, TDD, testing frameworks, or code quality standards in the resume."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Collaboration with cross-functional teams",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Created internal Django website for vendor managers, worked with designer at Crunchyroll, and launched products across multiple countries requiring coordination. Work at Microsoft and Amazon on customer-facing features implies product and business stakeholder collaboration."
+      }
+    ],
+    "overall_summary": "Daniel Phang is a strong candidate with 9+ years of software engineering experience at top-tier companies (Microsoft, Amazon), demonstrating expertise in backend development, cloud platforms (AWS), databases (SQL and NoSQL), and scalable system architecture. However, critical gaps exist for this full-stack senior role: no documented experience with TypeScript or modern frontend frameworks (React/Vue/Angular), no explicit testing/code quality practices mentioned, and missing containerization (Docker/Kubernetes) experience. While backend and infrastructure skills are excellent, the lack of modern frontend technology experience is a significant concern for a full-stack position.",
+    "scores": {
+      "overall_score": 73.26,
+      "category_scores": {
+        "Required Technical Skills": {
+          "score": 26.0,
+          "weight": 40.0,
+          "count": 12,
+          "normalized_score": 65.0
+        },
+        "Preferred Technical Skills": {
+          "score": 4.0,
+          "weight": 5.0,
+          "count": 3,
+          "normalized_score": 80.0
+        },
+        "Experience Requirements": {
+          "score": 7.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 77.77777777777779
+        },
+        "Education Requirements": {
+          "score": 2.0,
+          "weight": 2.0,
+          "count": 1,
+          "normalized_score": 100.0
+        },
+        "Soft Skills": {
+          "score": 12.0,
+          "weight": 14.0,
+          "count": 5,
+          "normalized_score": 85.71428571428571
+        },
+        "Domain Knowledge": {
+          "score": 9.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 100.0
+        },
+        "Other Requirements": {
+          "score": 3.0,
+          "weight": 7.0,
+          "count": 2,
+          "normalized_score": 42.857142857142854
+        }
+      },
+      "total_criteria": 29,
+      "criteria_met": 21
+    },
+    "file_path": "parsed_resumes\\resume-example.md"
+  },
+  {
+    "candidate_name": "Jason Miller",
+    "evaluations": [
+      {
+        "category": "Required Technical Skills",
+        "criterion": "JavaScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No mention of JavaScript in skills section, project descriptions, or work experience. The candidate's background is entirely in warehouse/logistics operations with no software development experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "TypeScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "TypeScript is not mentioned anywhere in the resume. All experience is in warehouse operations and inventory management, not software development."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Modern web frameworks (React, Vue, or Angular)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No web framework experience listed. The skills section includes cleaning equipment and sanitation practices, but no software development frameworks."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Backend development (Node.js, Python, or Java)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No backend programming languages or development experience mentioned. The candidate's work history is entirely in warehouse and logistics roles."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "RESTful APIs understanding",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of APIs, web services, or any software integration work. Experience is limited to physical warehouse operations."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Microservices architecture experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No software architecture or microservices experience evident. The resume shows warehouse operations and supply chain management only."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "SQL databases (PostgreSQL or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No database experience mentioned. While the candidate worked with inventory systems, there's no indication of SQL database development or management."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "NoSQL databases (MongoDB or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No NoSQL database experience mentioned in any section of the resume."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Git version control",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of Git or any version control systems. The candidate has no software development background."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "CI/CD pipelines experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No CI/CD tools or pipeline experience mentioned. The candidate's experience is in warehouse operations, not software deployment."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Cloud platforms (AWS, Azure, or GCP)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "While the candidate worked at Amazon, it was as a warehouse associate, not in a cloud computing or technical role. No cloud platform experience is evident."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Containerization (Docker, Kubernetes)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No containerization or orchestration experience mentioned. All experience relates to physical warehouse operations."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Agile/Scrum methodologies",
+        "weight": "Medium",
+        "score": 1,
+        "reasoning": "The candidate participated in 'Kaizen Events, Gemba walks, and 5S' at Dunrea Laboratories, which are Lean/continuous improvement methodologies. While not Agile/Scrum specifically, this demonstrates experience with structured improvement methodologies. Additionally, implemented a Kanban system, which is an Agile methodology."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "DevOps practices",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No DevOps tools or practices mentioned. The candidate has no software development or infrastructure automation experience."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Open-source contributions",
+        "weight": "Low",
+        "score": 0,
+        "reasoning": "No open-source contributions mentioned. While LinkedIn is listed in links, there's no GitHub profile or mention of any open-source work."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "5+ years of professional software development experience",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "The candidate has zero years of software development experience. All professional experience (2019-2022) is in warehouse operations and logistics roles."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Experience mentoring junior developers",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "While the achievements mention 'Managed workflow of associates for the FC,' this relates to warehouse associates, not software developers. No mentoring of developers mentioned."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Proven track record of delivering high-quality software solutions",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "The candidate has delivered high-quality warehouse operations (100% picking accuracy, 98th percentile speeds) but no software solutions. No software projects or deliverables mentioned."
+      },
+      {
+        "category": "Education Requirements",
+        "criterion": "Bachelor's degree in Computer Science or related field",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "The candidate holds an Associate's Degree in Logistics and Supply Chain Fundamentals and a graduate certificate in Warehousing & Supply Chain Management, neither of which are computer science or software engineering related."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong problem-solving skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate demonstrated problem-solving by 'Saved 12% on UPS orders by staying on top of special deals' and 'Cut down storage waste by 23% by switching to a Kanban system,' showing ability to identify and implement solutions to operational challenges."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Attention to detail",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Strong attention to detail demonstrated through 'zero error% score in adhering to packing specs,' '97% error-free ratio on packing records,' and '100% accuracy' in order picking despite high speeds."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong communication skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The resume is clearly written and well-structured. The candidate is bilingual (English and Spanish), demonstrating communication capabilities. Participation in Kaizen Events and Gemba walks suggests collaborative communication skills."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Teamwork skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Teamwork evident through participation in Kaizen Events and Gemba walks, which are collaborative improvement activities. Achievement mentions managing workflow of associates, indicating team coordination experience."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Code review capabilities",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No code review experience mentioned or relevant to the candidate's warehouse operations background. No software development experience to support this skill."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Understanding of scalable web application architecture",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No web application or software architecture experience mentioned. All experience is in physical warehouse and supply chain operations."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Production troubleshooting and issue resolution",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "While the candidate likely troubleshot warehouse operations issues, there's no evidence of production software troubleshooting, incident response, or technical debugging experience."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Technical architecture decision-making",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No technical or software architecture decision-making experience mentioned. The candidate's decisions related to operational improvements (Kanban system) rather than technical architecture."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Ability to write clean, maintainable, well-tested code",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No coding experience or software development practices mentioned. The candidate has no background in writing code or software testing."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Collaboration with cross-functional teams",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate participated in cross-functional improvement activities (Kaizen Events, Gemba walks) and managed workflow of associates, demonstrating collaboration across different operational teams."
+      }
+    ],
+    "overall_summary": "Jason Miller is an experienced warehouse and logistics professional with strong operational skills, but lacks all technical qualifications for a Senior Software Engineer position. While he demonstrates excellent soft skills including attention to detail, problem-solving, teamwork, and collaboration, he has zero software development experience, no programming knowledge, and no relevant technical education. This candidate is not suitable for this role.",
+    "scores": {
+      "overall_score": 19.77,
+      "category_scores": {
+        "Required Technical Skills": {
+          "score": 0.0,
+          "weight": 40.0,
+          "count": 12,
+          "normalized_score": 0.0
+        },
+        "Preferred Technical Skills": {
+          "score": 2.0,
+          "weight": 5.0,
+          "count": 3,
+          "normalized_score": 40.0
+        },
+        "Experience Requirements": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Education Requirements": {
+          "score": 0.0,
+          "weight": 2.0,
+          "count": 1,
+          "normalized_score": 0.0
+        },
+        "Soft Skills": {
+          "score": 12.0,
+          "weight": 14.0,
+          "count": 5,
+          "normalized_score": 85.71428571428571
+        },
+        "Domain Knowledge": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Other Requirements": {
+          "score": 3.0,
+          "weight": 7.0,
+          "count": 2,
+          "normalized_score": 42.857142857142854
+        }
+      },
+      "total_criteria": 29,
+      "criteria_met": 6
+    },
+    "file_path": "parsed_resumes\\Stockholm-Resume-Template-Simple.md"
+  },
+  {
+    "candidate_name": "Kristen Connelly",
+    "evaluations": [
+      {
+        "category": "Required Technical Skills",
+        "criterion": "JavaScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "JavaScript is not mentioned anywhere in the resume. The candidate's skills focus on video editing software (Adobe Premiere Pro, DaVinci Resolve, Avid) with no programming languages listed."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "TypeScript proficiency",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "TypeScript is not mentioned in the resume. The candidate's technical expertise is entirely in video production and editing tools, not software development technologies."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Modern web frameworks (React, Vue, or Angular)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No web frameworks are mentioned. The skills section lists video production tools only (Adobe Premiere Pro, DaVinci Resolve, camera equipment), with no frontend development frameworks."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Backend development (Node.js, Python, or Java)",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No backend programming languages or technologies are present in the resume. The candidate's experience is entirely in video production, not software development."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "RESTful APIs understanding",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of REST APIs, API development, or API integration anywhere in the work experience or skills. The candidate's work involves video editing and production workflows only."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Microservices architecture experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No evidence of microservices, distributed systems, or service-oriented architecture experience. The candidate's background is in video production, not software architecture."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "SQL databases (PostgreSQL or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No SQL databases or database management experience mentioned in the resume. The candidate's technical skills are limited to video editing software and production equipment."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "NoSQL databases (MongoDB or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No NoSQL databases mentioned. There is no evidence of any database work, schema design, or data modeling in the candidate's experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Git version control",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "Git, GitHub, GitLab, or any version control systems are not mentioned in the skills or work experience sections of the resume."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "CI/CD pipelines experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No CI/CD tools (Jenkins, GitHub Actions, etc.) or automated deployment pipelines mentioned. The candidate's experience is in video production workflows, not software deployment."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Cloud platforms (AWS, Azure, or GCP)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No cloud platforms or cloud services mentioned in the resume. The candidate's technical experience is entirely with video production and editing software."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Containerization (Docker, Kubernetes)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "Docker, Kubernetes, or any containerization technologies are not mentioned. No evidence of container orchestration or deployment experience."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Agile/Scrum methodologies",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No mention of Agile, Scrum, Kanban, or sprint-based development methodologies in the work experience descriptions."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "DevOps practices",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No DevOps tools, practices, or infrastructure as code mentioned. The candidate's work involves video production workflows, not DevOps engineering."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Open-source contributions",
+        "weight": "Low",
+        "score": 0,
+        "reasoning": "No GitHub profile or open-source project contributions mentioned. The LinkedIn link in the resume does not indicate software development activity."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "5+ years of professional software development experience",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "The candidate has approximately 3 years of video production experience (January 2019 to present), but zero years of software development experience. All professional roles are Video Production Assistant positions."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Experience mentoring junior developers",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No evidence of mentoring, coaching, or training activities mentioned in the work experience. The candidate's roles involve supporting production teams, not mentoring developers."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Proven track record of delivering high-quality software solutions",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "The candidate has delivered video production work (evidenced by '20% more likes and comments' metric), but no software development projects or solutions are mentioned."
+      },
+      {
+        "category": "Education Requirements",
+        "criterion": "Bachelor's degree in Computer Science or related field",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "The candidate holds a BA in Film and Television from Boston University (February 2021-Present), not Computer Science or a related technical field. Additional coursework is in Digital Video Editing."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong problem-solving skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate demonstrates problem-solving through re-sequencing scenes to enhance audience satisfaction (resulting in 20% more engagement) and managing complex production logistics for a 100-person team. While not software-related, this shows analytical thinking and solution development."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Attention to detail",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Video editing requires significant attention to detail. The candidate's work with 'trimming short segments to required lengths,' scriptwriting, audio editing and mixing, and equipment maintenance demonstrates precision and careful quality control."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong communication skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The resume shows collaborative work with production teams, managing guest bookings and green room traffic, researching story ideas, and building videography proposals for business clients, all requiring clear communication. The resume itself is well-written and organized."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Teamwork skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Multiple instances of team collaboration are evident: 'supporting a large scale production team of 100 people,' 'Collaborated with the production team to provide content,' and working with clients like Pfizer and Merck demonstrate strong teamwork capabilities."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Code review capabilities",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No evidence of code review experience. While the candidate likely reviews video content, there is no mention of reviewing code, conducting peer reviews of software, or ensuring code quality standards."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Understanding of scalable web application architecture",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No evidence of web application architecture, scaling challenges, or distributed systems experience. The candidate's domain knowledge is in video production workflows, not software architecture."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Production troubleshooting and issue resolution",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "While the candidate performs 'minor maintenance on video and audio equipment and managed any required vendor repair,' this relates to physical equipment, not software production environments or incident response. No software troubleshooting experience evident."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Technical architecture decision-making",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No evidence of technical architecture decisions, system design, or technology selection in a software context. The candidate's decision-making relates to video production workflows, not software architecture."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Ability to write clean, maintainable, well-tested code",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No evidence of coding ability, testing practices, or software development methodologies. The candidate's technical work involves video editing and audio mixing using non-linear editing systems, not writing code."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Collaboration with cross-functional teams",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "The candidate demonstrates cross-functional collaboration by working with production teams throughout 'development, pre-production, post-production, principal photography, and distribution,' and building proposals for business clients, showing ability to work with diverse stakeholders."
+      }
+    ],
+    "overall_summary": "Kristen Connelly is not a fit for the Senior Software Engineer - Full Stack position. The candidate has 3 years of experience as a Video Production Assistant with expertise in video editing software and production workflows, but has zero software development experience, no programming skills, and does not meet any of the critical technical requirements (JavaScript, TypeScript, web frameworks, backend development, or clean code practices). While the candidate demonstrates strong soft skills in teamwork, communication, attention to detail, and cross-functional collaboration that would be valuable in any role, the complete absence of software engineering experience and technical qualifications makes this candidate unsuitable for this position.",
+    "scores": {
+      "overall_score": 17.44,
+      "category_scores": {
+        "Required Technical Skills": {
+          "score": 0.0,
+          "weight": 40.0,
+          "count": 12,
+          "normalized_score": 0.0
+        },
+        "Preferred Technical Skills": {
+          "score": 0.0,
+          "weight": 5.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Experience Requirements": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Education Requirements": {
+          "score": 0.0,
+          "weight": 2.0,
+          "count": 1,
+          "normalized_score": 0.0
+        },
+        "Soft Skills": {
+          "score": 12.0,
+          "weight": 14.0,
+          "count": 5,
+          "normalized_score": 85.71428571428571
+        },
+        "Domain Knowledge": {
+          "score": 0.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Other Requirements": {
+          "score": 3.0,
+          "weight": 7.0,
+          "count": 2,
+          "normalized_score": 42.857142857142854
+        }
+      },
+      "total_criteria": 29,
+      "criteria_met": 5
+    },
+    "file_path": "parsed_resumes\\Sydney-Resume-Template-Modern.md"
+  },
+  {
+    "candidate_name": "Tin Nguyen",
+    "evaluations": [
+      {
+        "category": "Required Technical Skills",
+        "criterion": "JavaScript proficiency",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "JavaScript is explicitly mentioned multiple times across work experience: Rocket Insights (JavaScript, Node.js), GE Digital (JavaScript), Quality Consulting Inc (JavaScript, AngularJS), and Alliance Technologies roles."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "TypeScript proficiency",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "TypeScript is explicitly mentioned in multiple positions: Klaviyo (TypeScript), NDVR Inc (TypeScript), Rocket Insights (TypeScript), and GE Digital (TypeScript), demonstrating extensive experience across different roles."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Modern web frameworks (React, Vue, or Angular)",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "Candidate has extensive React experience (ReactJS mentioned at Klaviyo, NDVR, GE Digital) and Angular experience (Angular at XPO Logistics, AngularJS at Quality Consulting). Also mentions React Native at multiple positions."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Backend development (Node.js, Python, or Java)",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "Multiple backend technologies demonstrated: Python (Django, FastAPI at Klaviyo), Node.js (at Rocket Insights), NestJS (at NDVR), and Microsoft .NET/C# (at Quality Consulting and XPO Logistics)."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "RESTful APIs understanding",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "While the candidate has built full-stack applications and backend services, there is no explicit mention of REST APIs, RESTful services, or API design/development in the resume."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Microservices architecture experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No explicit mention of microservices architecture, distributed systems, or service-oriented architecture in any of the work experience descriptions."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "SQL databases (PostgreSQL or similar)",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "SQL database experience clearly demonstrated: PostgreSQL at NDVR Inc, MySQL at GE Digital, and Microsoft SQL at Quality Consulting Inc, showing proficiency across multiple SQL database platforms."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "NoSQL databases (MongoDB or similar)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of NoSQL databases such as MongoDB, Cassandra, DynamoDB, or similar technologies anywhere in the resume."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Git version control",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "GitHub profile link provided (https://github.com/tindn) in the contact information, indicating use of Git for version control and collaborative development."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "CI/CD pipelines experience",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of CI/CD tools (Jenkins, GitLab CI, GitHub Actions, CircleCI) or automated deployment pipelines in any work experience."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Cloud platforms (AWS, Azure, or GCP)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of AWS, Azure, GCP, or any cloud platform services in the resume."
+      },
+      {
+        "category": "Required Technical Skills",
+        "criterion": "Containerization (Docker, Kubernetes)",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of Docker, Kubernetes, or containerization technologies in any work experience or project descriptions."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Agile/Scrum methodologies",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No explicit mention of Agile, Scrum, Kanban, sprints, or any Agile methodologies in the resume."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "DevOps practices",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No mention of DevOps practices, infrastructure as code, monitoring tools, Terraform, Ansible, or other DevOps-related technologies."
+      },
+      {
+        "category": "Preferred Technical Skills",
+        "criterion": "Open-source contributions",
+        "weight": "Low",
+        "score": 0,
+        "reasoning": "While a GitHub profile link is provided, there is no explicit mention of open-source contributions, maintained projects, or community involvement in the resume."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "5+ years of professional software development experience",
+        "weight": "Critical",
+        "score": 1,
+        "reasoning": "Candidate has over 10 years of professional experience: from June 2014 (Alliance Technologies) to Present (January 2024 onwards at Klaviyo), with continuous professional software development roles throughout."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Experience mentoring junior developers",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No explicit mention of mentoring, coaching, training junior developers, or code review responsibilities in any role descriptions."
+      },
+      {
+        "category": "Experience Requirements",
+        "criterion": "Proven track record of delivering high-quality software solutions",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Multiple successful product launches mentioned: 'Built and launched the NDVR Wealth mobile app,' 'Built and deployed mobile apps for clients,' and various client solutions delivered across multiple companies."
+      },
+      {
+        "category": "Education Requirements",
+        "criterion": "Bachelor's degree in Computer Science or related field",
+        "weight": "Medium",
+        "score": 1,
+        "reasoning": "Bachelor of Arts in Computer Science and Economics from The College of Wooster, Ohio (May 2014), graduated cum laude with honors for senior thesis on machine learning."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong problem-solving skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Problem-solving demonstrated through building complex systems like 'warehouse optimization software,' 'portfolio optimization' app, AI agents with LLMs, and senior thesis using machine learning to optimize financial aid packages."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Attention to detail",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No explicit mention of testing practices, code quality focus, QA involvement, or documentation practices in the resume."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Strong communication skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Resume is clearly written and well-structured. Experience includes consulting roles (Quality Consulting Inc, Software Consultant) which inherently require strong client communication, and building software for various clients demonstrates stakeholder interaction."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Teamwork skills",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Multiple roles at established companies (Klaviyo, NDVR, GE Digital, XPO Logistics) inherently involve team collaboration. Uses 'Built' throughout which implies team-based work rather than solo projects."
+      },
+      {
+        "category": "Soft Skills",
+        "criterion": "Code review capabilities",
+        "weight": "Medium",
+        "score": 0,
+        "reasoning": "No explicit mention of conducting code reviews, peer reviews, or ensuring code quality standards in any role description."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Understanding of scalable web application architecture",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Experience with enterprise-scale applications: 'Internal portal for GE employees worldwide,' 'warehouse optimization software,' and building foundation for web apps and component libraries demonstrates understanding of scalable architecture."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Production troubleshooting and issue resolution",
+        "weight": "High",
+        "score": 0,
+        "reasoning": "No mention of on-call experience, incident response, debugging production issues, monitoring tools, or observability practices."
+      },
+      {
+        "category": "Domain Knowledge",
+        "criterion": "Technical architecture decision-making",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Staff Software Engineer role at NDVR where candidate 'Set the foundation for the web app and component library' indicates architecture-level decision-making. Multiple senior roles also suggest technical leadership responsibilities."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Ability to write clean, maintainable, well-tested code",
+        "weight": "Critical",
+        "score": 0,
+        "reasoning": "No explicit mention of testing practices, unit testing, integration testing, TDD, testing frameworks, or code quality practices in any project descriptions."
+      },
+      {
+        "category": "Other Requirements",
+        "criterion": "Collaboration with cross-functional teams",
+        "weight": "High",
+        "score": 1,
+        "reasoning": "Consulting roles and client-facing work (Rocket Insights, Quality Consulting Inc) inherently require collaboration with product managers, designers, and business stakeholders. Building consumer-facing apps also implies cross-functional collaboration."
+      }
+    ],
+    "overall_summary": "Tin Nguyen is a strong candidate with 10+ years of full-stack development experience, demonstrating proficiency in critical technologies including JavaScript, TypeScript, React, and multiple backend frameworks (Python, Node.js, .NET). However, the resume lacks explicit evidence of some important modern practices such as testing methodologies, CI/CD pipelines, cloud platforms, containerization, and microservices architecture. The candidate shows proven delivery of production applications and technical architecture experience, particularly at the Staff Engineer level.",
+    "scores": {
+      "overall_score": 56.98,
+      "category_scores": {
+        "Required Technical Skills": {
+          "score": 22.0,
+          "weight": 40.0,
+          "count": 12,
+          "normalized_score": 55.00000000000001
+        },
+        "Preferred Technical Skills": {
+          "score": 0.0,
+          "weight": 5.0,
+          "count": 3,
+          "normalized_score": 0.0
+        },
+        "Experience Requirements": {
+          "score": 7.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 77.77777777777779
+        },
+        "Education Requirements": {
+          "score": 2.0,
+          "weight": 2.0,
+          "count": 1,
+          "normalized_score": 100.0
+        },
+        "Soft Skills": {
+          "score": 9.0,
+          "weight": 14.0,
+          "count": 5,
+          "normalized_score": 64.28571428571429
+        },
+        "Domain Knowledge": {
+          "score": 6.0,
+          "weight": 9.0,
+          "count": 3,
+          "normalized_score": 66.66666666666666
+        },
+        "Other Requirements": {
+          "score": 3.0,
+          "weight": 7.0,
+          "count": 2,
+          "normalized_score": 42.857142857142854
+        }
+      },
+      "total_criteria": 29,
+      "criteria_met": 15
+    },
+    "file_path": "parsed_resumes\\TinNguyen.md"
+  }
+]
