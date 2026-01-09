@@ -1,0 +1,38 @@
+Senior Software Engineer - Full Stack
+
+About the Role:
+We are seeking an experienced Senior Software Engineer to join our engineering team. The ideal candidate will have strong expertise in modern web development and a proven track record of delivering high-quality software solutions.
+
+Required Skills and Qualifications:
+- 5+ years of professional software development experience
+- Strong proficiency in JavaScript, TypeScript, and modern web frameworks (React, Vue, or Angular)
+- Experience with backend development using Node.js, Python, or Java
+- Solid understanding of RESTful APIs and microservices architecture
+- Experience with SQL and NoSQL databases (PostgreSQL, MongoDB, etc.)
+- Proficient with Git version control and CI/CD pipelines
+- Strong problem-solving skills and attention to detail
+- Experience with cloud platforms (AWS, Azure, or GCP)
+- Knowledge of containerization technologies (Docker, Kubernetes)
+
+Preferred Qualifications:
+- Experience with agile/scrum methodologies
+- Familiarity with DevOps practices
+- Strong communication and teamwork skills
+- Bachelor's degree in Computer Science or related field
+- Experience mentoring junior developers
+- Contributions to open-source projects
+
+Responsibilities:
+- Design, develop, and maintain scalable web applications
+- Collaborate with cross-functional teams to deliver features
+- Write clean, maintainable, and well-tested code
+- Mentor junior developers and conduct code reviews
+- Participate in technical architecture decisions
+- Troubleshoot and resolve production issues
+
+What We Offer:
+- Competitive salary and benefits
+- Remote work options
+- Professional development opportunities
+- Collaborative team environment
+- Cutting-edge technology stack
