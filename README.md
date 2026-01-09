@@ -209,10 +209,7 @@ The Excel workbook (`resume_evaluation_[timestamp].xlsx`) contains five intercon
 - Sorting by overall score or match percentage
 - Getting high-level summaries of each candidate
 
-**Screenshot Placeholder:**
-```
-![Rankings Sheet](/imgs/Ranking.png)
-```
+![Rankings Sheet](./imgs/Ranking.png)
 
 ---
 
@@ -239,11 +236,7 @@ The Excel workbook (`resume_evaluation_[timestamp].xlsx`) contains five intercon
 - Finding candidates with good soft skills but technical gaps (training opportunities)
 - Comparing category-level performance across candidates
 
-**Screenshot Placeholder:**
-```
-![Category Scores](/imgs/Category scores.png)
-
-```
+![Category Scores](./imgs/Category%20scores.png)
 
 ---
 
@@ -263,10 +256,7 @@ The Excel workbook (`resume_evaluation_[timestamp].xlsx`) contains five intercon
 - **Skill Gap Analysis:** Identify which skills are commonly missing across all candidates
 - **Excel Filtering:** Use Excel's built-in filter feature to create custom candidate views
 
-**Screenshot Placeholder:**
-```
-![Criteria Scores](/imgs/Criteria matrix.png)
-```
+![Criteria Scores](./imgs/Criteria%20matrix.png)
 
 ---
 
