@@ -9,6 +9,55 @@ ResumeReview combines two powerful Claude Code skills to streamline the hiring p
 1. **Resume Parser** - Converts resumes from various formats (PDF, DOCX, TXT) into clean markdown
 2. **Resume Scorer** - Analyzes and ranks candidates against job requirements using LLM-powered evaluation
 
+```
+                         ResumeReview Workflow
+                         =====================
+
+ ◇──────────────◇                          ◇──────────────◇
+ │ PDF/DOCX/TXT │                           │     Job      │
+ │    Files     │                           │ Description  │
+ ◇──────────────◇                          ◇──────────────◇
+       │                                            │
+       │                                            │
+       ▼                                            │
+┌─────────────────────┐                             │
+│                     │                             │
+│  RESUME PARSER      │                             │
+│                     │                             │
+│  Input:  Resumes    │                             │
+│  Output: Markdown   │                             │
+│                     │                             │
+└─────────┬───────────┘                             │
+          │                                         │
+          │                                         │
+          │  ◇──────────────◇                      │
+          └─▶│   Parsed     │                      │
+             │  Resumes.md  │                       │
+             ◇──────────────◇                      │
+                    │                               │
+                    └───────────┬───────────────────┘
+                                │
+                                ▼
+                       ┌─────────────────────┐
+                       │                     │
+                       │  RESUME SCORER      │
+                       │                     │
+                       │  Input:  Resumes    │
+                       │          Job Desc   │
+                       │  Output: Reports    │
+                       │                     │
+                       └─────────┬───────────┘
+                                 │
+                 ┌───────────────┼───────────────┐
+                 │               │               │
+                 ▼               ▼               ▼
+        ◇──────────────◇  ◇──────────────◇  ◇──────────────◇
+        │   Criteria   │   │  Evaluation  │   │    Score     │
+        │  (JSON + MD) │   │    Report    │   │    Report    │
+        │              │   │  (Excel/MD)  │   │    (JSON)    │
+        ◇──────────────◇  ◇──────────────◇  ◇──────────────◇
+```
+
 ## Table of Contents
 
 - [Quick Start](#quick-start)
