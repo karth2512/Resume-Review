@@ -1,8 +1,6 @@
 ## Oli Treadwell
 Software Engineer
 
-olitreadwell@gmail.com
-linkedin.com/in/olitreadwell | github.com/olitreadwell
 
 ## SUMMARY
 Dynamic full-stack Software Engineer and technical trainer experienced in ReactJS, NodeJS, Python, Flask, Ruby on Rails, and Agile methodologies. Known for innovation, talent mentoring, and customer-centric solutions. Advocate for accessibility and tech for good. Skilled in leading cross-functional collaborations, achieving objectives, and optimizing software. Active community organizer, conference attendee, and open-source contributor.
@@ -79,6 +77,3 @@ For more details, you can find answers to common hiring questions, my references
 - Common Hiring Questions: github.com/olitreadwell/resume/blob/main/common-hiring-questions.md
 - References: github.com/olitreadwell/resume/blob/main/linkedin-recommendations.md
 - Skills and Experience: github.com/olitreadwell/resume/blob/main/skills-and-experience.md
-
-olitreadwell@gmail.com
-linkedin.com/in/olitreadwell | github.com/olitreadwell
